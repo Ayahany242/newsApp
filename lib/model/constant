@@ -1,0 +1,10 @@
+// url : https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=42bd4547814f475197450848b6cb2e99
+
+
+// baseUrl: https://newsapi.org/
+//method: v2/top-headlines?
+// queries: country=us&category=business&apiKey=8ba9e5754d9742cd8a812daa773ffdfc
+
+
+//search
+//https://newsapi.org/v2/everything?q=s&apiKey=8ba9e5754d9742cd8a812daa773ffdfc
